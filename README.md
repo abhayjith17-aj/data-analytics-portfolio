@@ -1,10 +1,36 @@
-# Data Analytics Portfolio
+# 📊 Data Analytics Portfolio
 
-This repository contains my projects in:
+Hi, I'm **Abhayjith A**, a Computer Science graduate aspiring to build my career as a **Data Analyst**.
 
-- SQL
-- Python
-- Power BI
+I work with **SQL, Python, Excel, and Power BI** to clean, analyze, visualize, and transform data into meaningful business insights.
+
+### 🛠️ Core Skills
+
+**SQL** · **Python** · **Excel** · **Power BI** · **Pandas** · **DAX** · **Power Query** · **Data Visualization** · **Data Analysis**
+
+---
+
+## ⭐ Featured Project
+
+### 📈 Sales Dashboard Analysis
+
+An end-to-end retail analytics project covering the complete analytics workflow:
+
+**SQL → Python → Excel → Power BI → Business Insights**
+
+The project includes:
+
+- Revenue and sales trend analysis
+- Product performance and profitability
+- Regional and category analysis
+- Customer insights
+- KPI development
+- DAX measures
+- Interactive Power BI dashboards
+
+### 🔗 [View the Full Sales Dashboard Analysis Project](https://github.com/abhayjith17-aj/Sales-Dashboard-Analysis)
+
+---
 
 ---
 
